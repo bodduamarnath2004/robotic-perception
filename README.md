@@ -41,7 +41,7 @@ This project implements a **Metric-Semantic 3D pose estimation pipeline** for de
 │   └── notebook3879446005.ipynb   # Main pipeline notebook (all stages)
 ├── docs/
 │   └── CP260_Project_Report.pdf   # Project report
-├── Dataset
+├── dataset
 ├── README.md
 ```
 
